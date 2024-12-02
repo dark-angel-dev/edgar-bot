@@ -91,13 +91,13 @@ export default handler;
 async function generateMenuImage() {
   try {
     // Load the base image using JIMP
-    const baseImage = await jimp.read('https://raw.githubusercontent.com/dark-angel-dev/edgar-bot/refs/heads/main/plugins/ab4d2017e9c066664105ec119c4610ec.jpg'); // Replace with your image URL
+    const baseImage = await jimp.read('https://i.ibb.co/X7wQc2C/12cefc4e9ec1bba6fb1a315c30ebf938.jpg'); // Replace with your image URL
     baseImage.resize(500, 500); // Resize the image if necessary
 
     // Add text to the image
     const font = await jimp.loadFont(jimp.FONT_SANS_16_WHITE); // You can change the font and size as needed
     baseImage.print(font, 10, 10, {
-      text: ' by majnon ',
+      text: ' Ayoub Dev ',
       alignmentX: jimp.HORIZONTAL_ALIGN_CENTER,
       alignmentY: jimp.VERTICAL_ALIGN_MIDDLE
     }, 480); // Adjust text position and width
