@@ -108619,7 +108619,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 662,
+      "exp": 716,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -109501,7 +109501,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 65,
+      "exp": 82,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -114829,6 +114829,38 @@
       "antiTraba": true,
       "autolevelup": false,
       "expired": 0
+    },
+    "212651830981@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": true,
+      "stickers": false,
+      "autosticker": false,
+      "audios": false,
+      "antiver": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiTiktok": false,
+      "antiYoutube": false,
+      "antiTelegram": false,
+      "antiFacebook": false,
+      "antiInstagram": false,
+      "antiTwitter": false,
+      "antifake": false,
+      "reaction": true,
+      "viewonce": true,
+      "modoadmin": false,
+      "antitoxic": true,
+      "simi": false,
+      "antiTraba": true,
+      "autolevelup": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -114959,16 +114991,16 @@
       "lastSuccess": 1724842957138
     },
     "allmemu.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1733145419432,
-      "lastSuccess": 1733145419432
+      "total": 7,
+      "success": 7,
+      "last": 1733164202218,
+      "lastSuccess": 1733164202218
     },
     "ai.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1733146358799,
-      "lastSuccess": 1733146358799
+      "total": 7,
+      "success": 7,
+      "last": 1733164436483,
+      "lastSuccess": 1733164436483
     }
   },
   "msgs": {},
