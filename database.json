@@ -108619,7 +108619,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 414,
+      "exp": 499,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -114833,10 +114833,10 @@
   },
   "stats": {
     "owner-savefile.js": {
-      "total": 87,
-      "success": 67,
-      "last": 1733143031467,
-      "lastSuccess": 1733140551490
+      "total": 89,
+      "success": 68,
+      "last": 1733145414846,
+      "lastSuccess": 1733145414846
     },
     "owner-exec.js": {
       "total": 95,
@@ -114959,10 +114959,10 @@
       "lastSuccess": 1724842957138
     },
     "allmemu.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1733141622867,
-      "lastSuccess": 1733141622867
+      "total": 6,
+      "success": 6,
+      "last": 1733145419432,
+      "lastSuccess": 1733145419432
     }
   },
   "msgs": {},
