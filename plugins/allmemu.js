@@ -63,12 +63,9 @@ _*< الاوامر />*_
 ┣ *القنوات*
 ┗━━━━━━━━━━┛
 ┏━━━━━━━━━━┓
-instagram.com/majnon._.98
+www.instagram.com/ayoub.eeea
 
-instagram.com/_ayoub_x5
-
-https://whatsapp.com/channel/0029VaiJnhbD38CbP5YcSK0K
-
+https://whatsapp.com/channel/0029VayqYQDBVJl5mVZsit1G
 
 ┗━━━━━━━━━┛`.trim().replace('%readMore', readMore);
 
@@ -94,7 +91,7 @@ export default handler;
 async function generateMenuImage() {
   try {
     // Load the base image using JIMP
-    const baseImage = await jimp.read('https://telegra.ph/file/60c85ff0cd62ca1972213.jpg'); // Replace with your image URL
+    const baseImage = await jimp.read('https://raw.githubusercontent.com/dark-angel-dev/edgar-bot/refs/heads/main/plugins/ab4d2017e9c066664105ec119c4610ec.jpg'); // Replace with your image URL
     baseImage.resize(500, 500); // Resize the image if necessary
 
     // Add text to the image
